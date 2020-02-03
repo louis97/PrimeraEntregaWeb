@@ -1,2 +1,3 @@
 # PrimeraEntregaWeb
-Página web personalque le servirá como una hoja de vida.
+Página web personal que servirá como una hoja de vida.
+URL
