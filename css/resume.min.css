@@ -12,3 +12,9 @@ a:active,a:focus,a:hover{
 #footer1{
     font-size: 11px !important;
     }
+.rounded-border{
+    border-radius: 2rem;
+}
+#logoUniandes{
+    margin-left: -2rem;
+}
