@@ -1,6 +1,6 @@
 /*!
  * Start Bootstrap - Resume v5.0.8 (https://startbootstrap.com/template-overviews/resume)
- * Copyright 2013-2019 Start Bootstrap
+ * Copyright 2013-2020 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
  */
 
@@ -174,10 +174,7 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
-
-footer{
-  display: block;
-  color: white !important;
-  font-size: 12px !important;
-  margin-bottom: -5erm;
+.last-sec{
+  padding-top: 1rem;
+  padding-bottom: 1rem;
 }
