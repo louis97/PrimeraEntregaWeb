@@ -174,3 +174,10 @@ a {
 a:hover, a:focus, a:active {
   color: #824027;
 }
+
+footer{
+  display: block;
+  color: white !important;
+  font-size: 12px !important;
+  margin-bottom: -5erm;
+}
